@@ -3,6 +3,8 @@
 Code and evolution logs for the paper
 *Improving VLMs on Scientific Chart Analysis via Autonomous Evolution*.
 
+Paper pre-print link - https://arxiv.org/abs/2610.35077
+
 Authors: Abhinav Sudhakar Dubey, Vidushi Goel, Kiran Rana (University of California, Santa Cruz),
 Shikhar Mathur (Airbnb Inc.) and Vaggos Chatziafratis (University of California, Santa Cruz).
 
